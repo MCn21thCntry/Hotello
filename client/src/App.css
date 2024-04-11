@@ -1,0 +1,86 @@
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+    padding: 15px 150px;
+    border-bottom: 1px solid rgb(233, 233, 233);
+    
+
+}
+
+.header h1 {
+    margin-right: 50px;
+}
+
+.right ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.right li {
+    margin-right: 30px;
+    color: gray;
+}
+
+.right li:hover {
+    cursor: pointer;
+}
+
+
+/* ============FORM============== */
+
+.app {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: sans-serif;
+  background-color: #f1f3fb;
+}
+
+form{
+    background-color: white;
+    padding: 10px 60px 0px 60px;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.app h1{
+    color: rgb(77, 1, 77);
+    text-align: center;
+}
+
+.sbtn{
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.lg {
+    height: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
