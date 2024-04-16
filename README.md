@@ -3,12 +3,9 @@ Hotel Booking Website
 
 First Iteration Notes:
 
-Req1 – Creating a user login and registration system(test using password)
+Req1 – Creating a user login system.
 
-Req2 – Generating Database in SQL which should include at least 5 tables.
+Req2 – Generating registration system.
 
-Req3 – There should be at least 10 hotel records from Antalya and Kayseri.
+Req3 – Password forgot system.
 
-Req4 – Customers can check their reservations.
-
-Req5 – Customers can give their insights about Hotels.
